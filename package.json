@@ -78,7 +78,7 @@
     "shodan-client": "^3.0.2",
     "sip-fake-stack": "jesusprubio/sip-fake-stack",
     "snmp-native": "^1.1.0",
-    "ssh2": "^0.5.4",
+    "ssh2": "^0.8.9",
     "subquest": "^1.2.0",
     "tftp-client": "^0.2.1",
     "validator": "^6.2.1",
