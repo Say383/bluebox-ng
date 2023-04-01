@@ -59,7 +59,7 @@
     "jsftp": "github:jesusprubio/jsftp",
     "keypress": "^0.2.1",
     "ldapjs": "^1.0.1",
-    "lodash": "^4.14.1",
+    "lodash": "^4.17.21",
     "moment": "^2.18.1",
     "mongodb": "^2.2.36",
     "mysql": "^2.13.0",
