@@ -52,7 +52,7 @@
     "dns-axfr": "^0.1.5",
     "es6-promisify": "^5.0.0",
     "exploitsearch": "^2.0.2",
-    "geoip-lite": "^1.1.9",
+    "geoip-lite": "^1.4.7",
     "handlebars": "^4.0.6",
     "icanhazip": "^1.0.3",
     "is-local-ip": "^1.0.1",
